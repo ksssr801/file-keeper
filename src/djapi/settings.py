@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'corsheaders',
     'rest_framework',
-    'travel_app'
+    'auth_app'
 ]
 
 MIDDLEWARE = [

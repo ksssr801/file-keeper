@@ -6,7 +6,7 @@ SOURCEDIR="$(dirname "$INSTDIR")"
 echo $SOURCEDIR
 
 cd /opt
-source TravelopiaEnv/bin/activate
+source FileKeeperEnv/bin/activate
 cd $INSTDIR
 start()
 {
